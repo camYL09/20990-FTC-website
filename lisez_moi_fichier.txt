@@ -1,0 +1,16 @@
+----------------Siteweb Officiel de The Frenchineers #20990----------------
+
+Ressources CSS:
+
+Pour les images:
+
+
+Pour les polices:
+- il faut faire référence au sous-repertoire dans l'url demandé (sous dossier), dans lequel le fichier de la police se trouve
+
+Pour les sons
+
+Ressources HTML:
+
+Pour les images:
+- il faut faire référence au sous-repertoire dans l'url demandé (sous dossier), dans lequel le fichier de l'image se trouve
